@@ -1,0 +1,24 @@
+body
+{
+    background-color: #FFF7D1;
+}
+h2
+{
+    color:#15B392;
+
+}
+nav
+{
+    margin-bottom: 170px;
+    background-color: #8B5DFF;
+}
+
+.navbar a
+{
+    background-color: #403939;
+}
+
+.navbar a:hover
+{
+    background-color: #000000;
+}

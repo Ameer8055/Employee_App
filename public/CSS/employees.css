@@ -1,0 +1,58 @@
+nav
+{
+    margin-bottom: 40px;
+    background-color: #8B5DFF;
+}
+body
+{
+    background-color:#FFF7D1;
+}
+th
+{
+    padding: 10px;
+}
+td
+{
+    padding: 10px;
+}
+table
+{
+    background-color: #D2FF72;
+}
+.upd,.del
+{
+    background-color: #979797;
+    color: rgb(0, 0, 0);
+    border: 2px solid white;
+    border-radius: 20px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    
+}
+.tble
+{
+    border: 2px solid rgb(77, 19, 106);
+}
+
+.upd:hover
+{
+    background-color: rgb(0, 191, 255);
+    color: white;
+    transition-delay: 0.2s;
+}
+.del:hover
+{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    transition-delay: 0.2s;
+}
+
+.navbar a
+{
+    background-color: #403939;
+}
+
+.navbar a:hover
+{
+    background-color: #000000;
+}
+
